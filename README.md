@@ -172,7 +172,7 @@ The above statements (including the official college policy on plagiarism) estab
 
 ##### Golden Rule
 
-A work is only truly plagiaristic if it wholesale replaces or does not in any way meaningfully alter the original language used to generate it or significantly modify its context.
+A work is only truly plagiaristic if it wholesale replaces or does not in any way meaningfully alter or modify the context of the original language used to generate it.
 
 ### Classroom ethics
 
