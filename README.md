@@ -79,7 +79,6 @@ additional texts not listed here as `Books to buy` will be provided when assignm
 ##### Texts distributed by professor
 
 * Greg Borenstein, _Generative Detective_
-* Liza Daly, _A Letter Groove_
 * Liza Daly, _Seraphs_
 * Allison Parrish, _Compasses_
 
@@ -120,17 +119,25 @@ This course works through `3` types of assignments:
 
 ###### Creative projects
 
-These serve as the soul of our course. Each will focus on techniques, concepts, and understandings that we will develop as the semester unfolds. These projects will mimic or investigate some aspect of the reading supporting our weekly discussion. The prompts will feature some basic techno-artistic specifications, but are essentially open-ended (with some guidance). 
+These serve as the soul of our course. Each will focus on techniques, concepts, and understandings that we will develop as the semester unfolds. These projects will mimic or investigate some aspect of the reading supporting our weekly discussion. The prompts will feature some basic techno-artistic specifications, but are essentially open-ended (with some guidance and concrete expectations attached). 
 
-###### Workshop feedback
+Students are expected to complete `10` of these throughout the semester, taking the week off when it's their time to present a text. The final project is not included in this number and is additional to the `10` regular assignments completed throughout the semester.
+
+###### Workshop participation and feedback
 
 As this course is as much about _how we think_ about computational tools interfacing with the world of language, you will be responsible for recording and processing your responses to the work your fellow creators generate.
+
+Each week, `3` students will provide work for discussion during our `Friday` session. A predetermined list of `3` students must write a `350`-`500` word response which considers various dimensions of the work as relates to the theme or concerns of the text we're reading/presenting each week. These letters, informed by notes taken before and during `Friday` sessions, are due by the end of the day (read: `23:59`) on `Sunday`.
+
+Students responsible for writing letters are responsible for assisting the instructor to facilitate a reasonable discussion, as they should have -- at the minimum -- notes about the work being discussed.
+
+Students submitting work to the workshop session are not required to write letters for that week.
 
 ###### Reading discussion
 
 There are few solid "technical indicators" for the kind of work we're looking at; while the genre isn't _new_, it's certainly not as well-established as, say, the form of the _novel_. In keeping with the course's interest in exploring work from the perspective of understanding _why_ these works exist rather than strictly _how_ they're achieved, one discussion will be lead by each member of the course. 
 
-The assignment sheet, given as a separate repository, will provide areas for consideration and requirements for completion. These discussions will begin the second full week of class.
+The assignment sheet, given as a separate repository, will provide areas for consideration and requirements for completion. These discussions will begin the second full week of class. Each student will serve as a discussion leader `1` time, and is not responsible for generating work in response to the text or prompt given that week.
 
 #### Evaluation
 
