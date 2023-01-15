@@ -185,7 +185,7 @@ If you find yourself in difficult circumstances which affect your ability to par
 
 Do not wait until the end of the semester. 
 
-Part of my job as the Mayor of `term-world` is to make sure that students receive the assistance they need. Do not hesitate to let me know if there is anything I can do with respect to your ability to handle your work. This is especially true of our current circumstances. Again, let me remind you -- __**it is part of my job**__ to help you access Allegheny College resources that will enable your safety and success.
+It is part of my job to make sure that students receive the assistance they need. Do not hesitate to let me know if there is anything I can do with respect to your ability to handle your work. This is especially true of our current circumstances. Again, let me remind you -- __**it is part of my job**__ to help you access Allegheny College resources that will enable your safety and success.
 
 In many situations, the following list of resources may help:
 
