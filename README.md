@@ -139,6 +139,25 @@ There are few solid "technical indicators" for the kind of work we're looking at
 
 The assignment sheet, given as a separate repository, will provide areas for consideration and requirements for completion. These discussions will begin the second full week of class. Each student will serve as a discussion leader `1` time, and is not responsible for generating work in response to the text or prompt given that week.
 
+Students leading a week's reading discussion should meet with me the Friday before the week they are scheduled to discuss a general outline of topics they intend to present.
+
+###### Due dates
+
+There are many moving parts to this class. I provide the following table to summarize the various check-in points:
+
+|Assignment                     |Due               |
+|-------------------------------|------------------|
+|Discussion                                        |
+|Meet with professor            |Friday before     |
+|Writing                                           |
+|Writing, for small group draft |Wednesday, 11:00  |
+|Writing, not up for workshop   |Sunday, 23:59     |
+|Writing, up for workshop       |Friday, 11:00     |
+|Writing, revisions from workshop |Sunday, 23:59   |
+|Workshop letters                                  |
+|Notes for workshop session     |Friday, 11:00     |
+|Final letter                   |Sunday, 23:59     |
+
 #### Evaluation
 
 Our work, given its subjective nature, cannot neatly fit into a traditional graded system. While technical concerns and specifications underlie
