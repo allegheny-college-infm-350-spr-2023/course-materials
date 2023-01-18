@@ -153,7 +153,7 @@ There are many moving parts to this class. I provide the following table to summ
 |Writing, for small group draft |Wednesday, 11:00  |All                    |
 |Writing, up for workshop       |Friday, 11:00     |Assigned writers       |
 |Writing, not up for workshop   |Sunday, 23:59     |All                    |
-|**Workshop letters **                                 |                       |
+|**Workshop letters**                                 |                       |
 |Notes for workshop session     |Friday, 11:00     |Assigned responders    |
 |Final letter                   |Sunday, 23:59     |Assigned responders    |
 
