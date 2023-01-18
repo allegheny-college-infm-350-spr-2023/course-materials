@@ -145,18 +145,17 @@ Students leading a week's reading discussion should meet with me the Friday befo
 
 There are many moving parts to this class. I provide the following table to summarize the various check-in points:
 
-|Assignment                     |Due               |
-|-------------------------------|------------------|
-|Discussion                                        |
-|Meet with professor            |Friday before     |
-|Writing                                           |
-|Writing, for small group draft |Wednesday, 11:00  |
-|Writing, not up for workshop   |Sunday, 23:59     |
-|Writing, up for workshop       |Friday, 11:00     |
-|Writing, revisions from workshop |Sunday, 23:59   |
-|Workshop letters                                  |
-|Notes for workshop session     |Friday, 11:00     |
-|Final letter                   |Sunday, 23:59     |
+|Assignment                     |Due               |Who                    |
+|-------------------------------|------------------|-----------------------|
+|Discussion                                        |                       |
+|Meet with professor            |Friday before     |Assigned presenter     |
+|Writing                                           |                       |
+|Writing, for small group draft |Wednesday, 11:00  |All                    |
+|Writing, up for workshop       |Friday, 11:00     |Assigned writers       |
+|Writing, not up for workshop   |Sunday, 23:59     |All                    |
+|Workshop letters                                  |                       |
+|Notes for workshop session     |Friday, 11:00     |Assigned responders    |
+|Final letter                   |Sunday, 23:59     |Assigned responders    |
 
 #### Evaluation
 
