@@ -75,6 +75,8 @@ The above list is subject to change as we discuss how we want to shape our work.
 
 These will be posted to the assignment repositories for everyone to see. However, they're not "free-form." Respondents will be given a format to follow for each week guided by the questions we're asking about a given method or text(s) that we're looking at. These are not so much "gotcha" or a platform to interrogate the writers whose work we're looking at. Think of them more as process documents that surface what the class has talked about and the conversations going on around the processes and procedures we're exploring at a given time.
 
+There is some element of the letter writer as having a higher-level personal stake in engaging with the work (you're being evaluated via writing about work when no one else is). However, this should be looked at as an exercise in community transcription.
+
 ### Course platforms
 
 On course platforms used for the duration of the semester:
