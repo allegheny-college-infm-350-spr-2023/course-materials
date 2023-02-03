@@ -30,12 +30,12 @@ Given that this course relies on process, this contract shapes itself around the
 
 There are opportunities for earning grades higher than the `Basic Grade`.
 
-|Final letter grade |Discussion lead |Projects completed |Letters completed |Final project |
+|Final letter grade |Discussion lead |Prompts required|Additional prompts completed|Letters required|Additional letters completed |Final project |
 |-------------------|----------------|-------------------|------------------|--------------|
-|A                  |✓               |11                 |18                |✓            |
-|A-                 |✓               |10                 |15                |✓            |
-|B+                 |✓               |9                  |12                |✓            |
-|B                  |✓               |9                  |9                 |✓            |
+|A                  |✓               |3                 |8| 9 |9                |✓            |
+|A-                 |✓               |3                 |7 |9 |6                |✓            |
+|B+                 |✓               |3                  |6 |9 |3                |✓            |
+|B                  |✓               |3                  |6 |9 |9                 |✓            |
 
 ### Grades lower than the `Basic Grade`
 
