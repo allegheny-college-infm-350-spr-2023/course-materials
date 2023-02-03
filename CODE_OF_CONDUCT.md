@@ -37,6 +37,32 @@ There are opportunities for earning grades higher than the `Basic Grade`.
 |B+                 |✓               |3                  |6 |9 |3                |✓            |
 |B                  |✓               |3                  |6 |9 |9                 |✓            |
 
+#### A note about assignment types
+
+##### Letters
+
+Letters are entries on our [course discussion board](https://github.com/allegheny-college-infm-350-spr-2023/course-discussions/discussions) which _tag_ writers by GitHub user name and respond to _all of that author's completed prompts_ for a given week.
+
+##### Prompts
+
+The texts _and_ code which generate the texts that respond to a given week's technical requirements/challenges. These are included in each assignment.
+
+##### Required
+
+Completing work to which you are _assigned in the [schedule](https://chompe.rs/350-schedule)_ cover this category. If you finish the work for our review either for:
+
+* `Workshop`: Friday
+* `Letters`: Sunday
+
+this requirement should take care of itself.
+
+##### Additional
+
+This criteria contemplates _doing more_ than what is assigned. Here, you would need to complete either:
+
+* additional tagged (using an author's GitHub username) letters about a writer's work for a given week
+* completing generators or machines for a given week's prompt _even if you are not assigned to be discussed_ during that week
+
 ### Grades lower than the `Basic Grade`
 
 ### `Incomplete` assignments
