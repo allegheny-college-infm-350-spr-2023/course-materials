@@ -24,7 +24,7 @@
 
 ### Contact
 
-* Mayor: Douglas Luman
+* Instructor: Douglas Luman
 * Email: dluman@allegheny.edu
 * Telephone: `+1 814 332 2136`
 * Office: Alden Hall, 105
@@ -200,9 +200,9 @@ The discipline of computer science, like many others, encourages its members to 
 
 #### Assistance with course concepts
 
-Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the Mayor and teaching assistants. To meet with me, consult my available office hours (above) and make an appointment.
+Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the instructor. To meet with me, consult my available office hours (above) and make an appointment.
 
-Historically, students who are successful in my courses visit and discuss course concepts with the Mayor and Technical Leaders early and often. See [above for my office hours](#office-hours) or go to [this schedule for Technical Leaders' office hours](https://www.cs.allegheny.edu/teaching/technicalleaders/).
+Historically, students who are successful in my courses visit and discuss course concepts with me early and often. See [above for my office hours](#office-hours) or go to [this schedule for Technical Leaders' office hours](https://www.cs.allegheny.edu/teaching/technicalleaders/).
 
 #### Assistance outside of the course
 
